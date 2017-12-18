@@ -1,0 +1,11 @@
+{
+  "name": "dockerode-bug",
+  "dependencies": {
+    "dockerode": "^2.5.3",
+    "inquirer": "^4.0.1"
+  },
+  "devDependencies": {
+    "imports-loader": "^0.7.1",
+    "webpack": "^3.10.0"
+  }
+}
